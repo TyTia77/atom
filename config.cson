@@ -1,0 +1,34 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "bca8117a-878e-4fc9-9c9f-cfd286770d70"
+    html:
+      default_beautifier: "Pretty Diff"
+    json:
+      beautify_on_save: true
+      disabled: true
+  core:
+    allowPendingPaneItems: false
+    disabledPackages: [
+      "terminal-plus"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "monokai"
+    ]
+  editor:
+    fontFamily: "Verdana"
+    fontSize: 15
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "24b44a72-d4c2-bef8-1186-3c8c61a15a03"
+  "git-plus": {}
+  linter: {}
+  "linter-ui-default": {}
+  welcome:
+    showOnStartup: false

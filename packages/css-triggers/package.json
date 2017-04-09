@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117229-21972-1vu1xnq\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117229-21972-1vu1xnq\\package.tgz",
+        "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117229-21972-1vu1xnq\\package.tgz",
+        "type": "local"
+      },
+      "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-117229-21972-1i5jl20"
+    ]
+  ],
+  "_from": "..\\d-117229-21972-1vu1xnq\\package.tgz",
+  "_id": "css-triggers@1.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/css-triggers",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117229-21972-1vu1xnq\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117229-21972-1vu1xnq\\package.tgz",
+    "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117229-21972-1vu1xnq\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-117229-21972-1vu1xnq\\package.tgz",
+  "_shasum": "2bdd334f8a9b831aae62be101e54cdab29bf9a23",
+  "_shrinkwrap": null,
+  "_spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117229-21972-1vu1xnq\\package.tgz",
+  "_where": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-117229-21972-1i5jl20",
+  "bugs": {
+    "url": "https://github.com/arkmuntasser/css-triggers/issues"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  },
+  "description": "Determine whether css triggers layout, paint, and composite.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/arkmuntasser/css-triggers#readme",
+  "keywords": [
+    "css",
+    "triggers",
+    "paint",
+    "layout",
+    "composite"
+  ],
+  "license": "MIT",
+  "main": "./lib/main.coffee",
+  "name": "css-triggers",
+  "optionalDependencies": {},
+  "readme": "# css-triggers package\n\nThe extension is inspired and powered by [css-triggers](https://csstriggers.com) by [Paul](https://twitter.com/aerotwist) and [Surma](https://twitter.com/DasSurma)\n\n![css-triggers in action](https://raw.githubusercontent.com/arkmuntasser/css-triggers/master/screenshot.png)\n\n## TODO\n* Add onHover descriptions of trigger icons\n* Improve general performance\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkmuntasser/css-triggers.git"
+  },
+  "version": "1.0.2"
+}
