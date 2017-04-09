@@ -7,6 +7,13 @@
     json:
       beautify_on_save: true
       disabled: true
+  "atom-material-ui":
+    colors:
+      genAccent: true
+      paintCursor: true
+    tabs: {}
+    treeView:
+      compactList: true
   core:
     allowPendingPaneItems: false
     disabledPackages: [
@@ -14,8 +21,8 @@
     ]
     telemetryConsent: "limited"
     themes: [
-      "atom-dark-ui"
-      "monokai"
+      "seti-ui"
+      "monokai-seti"
     ]
   editor:
     fontFamily: "Verdana"
@@ -30,5 +37,10 @@
   "git-plus": {}
   linter: {}
   "linter-ui-default": {}
+  "seti-ui":
+    compactView: true
+    disableAnimations: true
+    fileIcons: false
+    themeColor: "Orange"
   welcome:
     showOnStartup: false

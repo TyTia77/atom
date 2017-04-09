@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58828-1pxsf7o\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58828-1pxsf7o\\package.tgz",
+        "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58828-1pxsf7o\\package.tgz",
+        "type": "local"
+      },
+      "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-11739-58828-3ssc4o"
+    ]
+  ],
+  "_from": "..\\d-11739-58828-1pxsf7o\\package.tgz",
+  "_id": "monokai-dark@1.3.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/monokai-dark",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58828-1pxsf7o\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58828-1pxsf7o\\package.tgz",
+    "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58828-1pxsf7o\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-11739-58828-1pxsf7o\\package.tgz",
+  "_shasum": "fc31e2514e937227d800e7be85e49ee88de2caf8",
+  "_shrinkwrap": null,
+  "_spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58828-1pxsf7o\\package.tgz",
+  "_where": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-11739-58828-3ssc4o",
+  "author": {
+    "name": "James Doyle",
+    "email": "james2doyle@gmail.com",
+    "url": "http://ohdoylerules.com"
+  },
+  "bugs": {
+    "url": "https://github.com/james2doyle/atom-monokai-dark/issues"
+  },
+  "dependencies": {},
+  "description": "A dark monokai theme",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/james2doyle/atom-monokai-dark",
+  "license": "MIT",
+  "name": "monokai-dark",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "# Dark Monokai theme\n\nA dark monokai syntax theme for [Atom](http://atom.io/).\n\nOriginally converted from [monokai](https://github.com/kevinsawicki/monokai) which in turn came from the [TextMate](http://www.monokai.nl/blog/wp-content/asdev/Monokai.tmTheme) theme using the [TextMate bundle converter](http://atom.io/docs/latest/converting-a-text-mate-theme).\n\n![](https://raw.github.com/james2doyle/atom-monokai-dark/master/screenshot.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james2doyle/atom-monokai-dark.git"
+  },
+  "theme": "syntax",
+  "version": "1.3.0"
+}

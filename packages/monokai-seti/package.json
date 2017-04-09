@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58708-1xplx62\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58708-1xplx62\\package.tgz",
+        "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58708-1xplx62\\package.tgz",
+        "type": "local"
+      },
+      "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-11739-58708-1ywo3us"
+    ]
+  ],
+  "_from": "..\\d-11739-58708-1xplx62\\package.tgz",
+  "_id": "monokai-seti@0.7.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/monokai-seti",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58708-1xplx62\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58708-1xplx62\\package.tgz",
+    "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58708-1xplx62\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-11739-58708-1xplx62\\package.tgz",
+  "_shasum": "73a3f8365ee08b38adf047835087e3f65e2cf45b",
+  "_shrinkwrap": null,
+  "_spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-58708-1xplx62\\package.tgz",
+  "_where": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-11739-58708-1ywo3us",
+  "bugs": {
+    "url": "https://github.com/schmitzjake/monokai-seti/issues"
+  },
+  "dependencies": {},
+  "description": "A monokai theme for the seti ui",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.39.0"
+  },
+  "homepage": "https://github.com/schmitzjake/monokai-seti#readme",
+  "license": "MIT",
+  "name": "monokai-seti",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "# Monokai-seti theme\n\nA monokai syntax theme for the seti-ui for Atom.\n\nForked from the atom monokai syntax theme.\n\n![](https://i.imgur.com/xBHmpMA.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmitzjake/monokai-seti.git"
+  },
+  "theme": "syntax",
+  "version": "0.7.0"
+}
