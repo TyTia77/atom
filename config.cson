@@ -26,7 +26,7 @@
     ]
   editor:
     fontFamily: "Verdana"
-    fontSize: 15
+    fontSize: 17
     scrollPastEnd: true
     showIndentGuide: true
     showInvisibles: true
@@ -36,7 +36,8 @@
     userId: "24b44a72-d4c2-bef8-1186-3c8c61a15a03"
   "git-plus": {}
   linter: {}
-  "linter-ui-default": {}
+  "linter-ui-default":
+    panelHeight: 117
   "seti-ui":
     compactView: true
     disableAnimations: true
