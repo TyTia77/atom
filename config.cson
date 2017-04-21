@@ -18,6 +18,8 @@
     allowPendingPaneItems: false
     disabledPackages: [
       "terminal-plus"
+      "language-javascript-jsx"
+      "autocomplete-angular-material"
     ]
     telemetryConsent: "limited"
     themes: [
@@ -37,7 +39,8 @@
   "git-plus": {}
   linter: {}
   "linter-ui-default":
-    panelHeight: 117
+    panelHeight: 48
+    showPanel: true
   "seti-ui":
     compactView: true
     disableAnimations: true
