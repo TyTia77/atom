@@ -18,13 +18,12 @@
     allowPendingPaneItems: false
     disabledPackages: [
       "terminal-plus"
-      "language-javascript-jsx"
       "autocomplete-angular-material"
     ]
     telemetryConsent: "limited"
     themes: [
       "seti-ui"
-      "monokai-seti"
+      "seti-syntax"
     ]
   editor:
     fontFamily: "Verdana"

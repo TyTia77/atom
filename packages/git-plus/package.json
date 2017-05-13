@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117321-104640-1vqnb3j.xl7uqy3nmi\\package.tgz",
+        "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11745-108736-6fbj8w.0fs0nvzpvi\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117321-104640-1vqnb3j.xl7uqy3nmi\\package.tgz",
-        "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117321-104640-1vqnb3j.xl7uqy3nmi\\package.tgz",
+        "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11745-108736-6fbj8w.0fs0nvzpvi\\package.tgz",
+        "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11745-108736-6fbj8w.0fs0nvzpvi\\package.tgz",
         "type": "local"
       },
-      "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-117321-104640-hfp1m0.wosukawcdi"
+      "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-11745-108736-12dwyyu.gl3xm0lik9"
     ]
   ],
-  "_from": "..\\d-117321-104640-1vqnb3j.xl7uqy3nmi\\package.tgz",
-  "_id": "git-plus@7.6.0",
+  "_from": "..\\d-11745-108736-6fbj8w.0fs0nvzpvi\\package.tgz",
+  "_id": "git-plus@7.8.0",
   "_inCache": true,
   "_installable": true,
   "_location": "/git-plus",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117321-104640-1vqnb3j.xl7uqy3nmi\\package.tgz",
+    "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11745-108736-6fbj8w.0fs0nvzpvi\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117321-104640-1vqnb3j.xl7uqy3nmi\\package.tgz",
-    "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117321-104640-1vqnb3j.xl7uqy3nmi\\package.tgz",
+    "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11745-108736-6fbj8w.0fs0nvzpvi\\package.tgz",
+    "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11745-108736-6fbj8w.0fs0nvzpvi\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-117321-104640-1vqnb3j.xl7uqy3nmi\\package.tgz",
-  "_shasum": "fcbbf4010f26fcad4f09cfa3b6d3761234306ac0",
+  "_resolved": "file:..\\d-11745-108736-6fbj8w.0fs0nvzpvi\\package.tgz",
+  "_shasum": "2ab536b1d4428bb3ce31e0f9da0be572224dd8bc",
   "_shrinkwrap": null,
-  "_spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117321-104640-1vqnb3j.xl7uqy3nmi\\package.tgz",
-  "_where": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-117321-104640-hfp1m0.wosukawcdi",
+  "_spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11745-108736-6fbj8w.0fs0nvzpvi\\package.tgz",
+  "_where": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-11745-108736-12dwyyu.gl3xm0lik9",
   "bugs": {
     "url": "https://github.com/akonwi/git-plus/issues"
   },
@@ -88,5 +88,5 @@
     "type": "git",
     "url": "git+https://github.com/akonwi/git-plus.git"
   },
-  "version": "7.6.0"
+  "version": "7.8.0"
 }

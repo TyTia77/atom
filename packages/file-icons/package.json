@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117318-24476-1r6zlry.s2vhmh1tt9\\package.tgz",
+        "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117413-99176-11xni7e.ybug2jra4i\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117318-24476-1r6zlry.s2vhmh1tt9\\package.tgz",
-        "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117318-24476-1r6zlry.s2vhmh1tt9\\package.tgz",
+        "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117413-99176-11xni7e.ybug2jra4i\\package.tgz",
+        "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117413-99176-11xni7e.ybug2jra4i\\package.tgz",
         "type": "local"
       },
-      "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-117318-24476-19qmlux.rouyqlg14i"
+      "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-117413-99176-ymtx8m.7atndk7qfr"
     ]
   ],
-  "_from": "..\\d-117318-24476-1r6zlry.s2vhmh1tt9\\package.tgz",
-  "_id": "file-icons@2.1.3",
+  "_from": "..\\d-117413-99176-11xni7e.ybug2jra4i\\package.tgz",
+  "_id": "file-icons@2.1.5",
   "_inCache": true,
   "_installable": true,
   "_location": "/file-icons",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117318-24476-1r6zlry.s2vhmh1tt9\\package.tgz",
+    "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117413-99176-11xni7e.ybug2jra4i\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117318-24476-1r6zlry.s2vhmh1tt9\\package.tgz",
-    "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117318-24476-1r6zlry.s2vhmh1tt9\\package.tgz",
+    "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117413-99176-11xni7e.ybug2jra4i\\package.tgz",
+    "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117413-99176-11xni7e.ybug2jra4i\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-117318-24476-1r6zlry.s2vhmh1tt9\\package.tgz",
-  "_shasum": "5eceba2012537c3e90c1ba29f8f96eb9473ce56a",
+  "_resolved": "file:..\\d-117413-99176-11xni7e.ybug2jra4i\\package.tgz",
+  "_shasum": "edd21d501f1d4da14cfbc90582f7dbdf388dd995",
   "_shrinkwrap": null,
-  "_spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117318-24476-1r6zlry.s2vhmh1tt9\\package.tgz",
-  "_where": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-117318-24476-19qmlux.rouyqlg14i",
+  "_spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-117413-99176-11xni7e.ybug2jra4i\\package.tgz",
+  "_where": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-117413-99176-ymtx8m.7atndk7qfr",
   "atomTestRunner": "atom-mocha",
   "bugs": {
     "url": "https://github.com/file-icons/atom/issues"
@@ -113,7 +113,7 @@
   },
   "dependencies": {
     "alhadis.utils": "v0.1.2",
-    "atom-fs": "v0.1.1",
+    "atom-fs": "v0.1.2",
     "micromatch": "*",
     "print": "*"
   },
@@ -153,5 +153,5 @@
     "type": "git",
     "url": "git+https://github.com/file-icons/atom.git"
   },
-  "version": "2.1.3"
+  "version": "2.1.5"
 }

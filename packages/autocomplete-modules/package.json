@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-40356-o3bnkh\\package.tgz",
+        "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11749-160412-mhlz9m.o8qa3e4s4i\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-40356-o3bnkh\\package.tgz",
-        "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-40356-o3bnkh\\package.tgz",
+        "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11749-160412-mhlz9m.o8qa3e4s4i\\package.tgz",
+        "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11749-160412-mhlz9m.o8qa3e4s4i\\package.tgz",
         "type": "local"
       },
-      "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-11739-40356-ydedr6"
+      "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-11749-160412-1qkwboh.ha63ucjtt9"
     ]
   ],
-  "_from": "..\\d-11739-40356-o3bnkh\\package.tgz",
-  "_id": "autocomplete-modules@1.6.9",
+  "_from": "..\\d-11749-160412-mhlz9m.o8qa3e4s4i\\package.tgz",
+  "_id": "autocomplete-modules@1.6.10",
   "_inCache": true,
   "_installable": true,
   "_location": "/autocomplete-modules",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-40356-o3bnkh\\package.tgz",
+    "raw": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11749-160412-mhlz9m.o8qa3e4s4i\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-40356-o3bnkh\\package.tgz",
-    "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-40356-o3bnkh\\package.tgz",
+    "rawSpec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11749-160412-mhlz9m.o8qa3e4s4i\\package.tgz",
+    "spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11749-160412-mhlz9m.o8qa3e4s4i\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-11739-40356-o3bnkh\\package.tgz",
-  "_shasum": "547020f6689b5959d550603b7366d26652d944d2",
+  "_resolved": "file:..\\d-11749-160412-mhlz9m.o8qa3e4s4i\\package.tgz",
+  "_shasum": "86b49a8784fd8e0cf6a6b9aefbc63af1d3bed49e",
   "_shrinkwrap": null,
-  "_spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11739-40356-o3bnkh\\package.tgz",
-  "_where": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-11739-40356-ydedr6",
+  "_spec": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\d-11749-160412-mhlz9m.o8qa3e4s4i\\package.tgz",
+  "_where": "C:\\USERS\\TY\\APPDATA\\LOCAL\\TEMP\\apm-install-dir-11749-160412-1qkwboh.ha63ucjtt9",
   "activationHooks": [
     "language-javascript:grammar-used",
     "language-babel:grammar-used",
@@ -93,5 +93,5 @@
     "pretest": "eslint src/",
     "test": "exit 0"
   },
-  "version": "1.6.9"
+  "version": "1.6.10"
 }
